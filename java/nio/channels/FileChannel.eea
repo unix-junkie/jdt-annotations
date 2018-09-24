@@ -1,0 +1,7 @@
+class java/nio/channels/FileChannel
+lock
+ ()Ljava/nio/channels/FileLock;
+ ()L1java/nio/channels/FileLock;
+tryLock
+ ()Ljava/nio/channels/FileLock;
+ ()L0java/nio/channels/FileLock;

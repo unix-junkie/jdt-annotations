@@ -1,0 +1,7 @@
+class java/sql/DriverInfo
+<init>
+ (Ljava/sql/Driver;Ljava/sql/DriverAction;)V
+ (L1java/sql/Driver;Ljava/sql/DriverAction;)V
+driver
+ Ljava/sql/Driver;
+ L1java/sql/Driver;

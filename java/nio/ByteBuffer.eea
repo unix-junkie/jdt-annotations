@@ -1,0 +1,4 @@
+class java/nio/ByteBuffer
+wrap
+ ([B)Ljava/nio/ByteBuffer;
+ ([B)L1java/nio/ByteBuffer;

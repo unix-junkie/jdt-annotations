@@ -1,0 +1,13 @@
+class java/util/prefs/Preferences
+childrenNames
+ ()[Ljava/lang/String;
+ ()[1L1java/lang/String;
+node
+ (Ljava/lang/String;)Ljava/util/prefs/Preferences;
+ (Ljava/lang/String;)L1java/util/prefs/Preferences;
+systemRoot
+ ()Ljava/util/prefs/Preferences;
+ ()L1java/util/prefs/Preferences;
+userRoot
+ ()Ljava/util/prefs/Preferences;
+ ()L1java/util/prefs/Preferences;

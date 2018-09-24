@@ -1,0 +1,4 @@
+class java/nio/file/FileSystems
+newFileSystem
+ (Ljava/net/URI;Ljava/util/Map<Ljava/lang/String;*>;)Ljava/nio/file/FileSystem;
+ (Ljava/net/URI;Ljava/util/Map<Ljava/lang/String;*>;)L1java/nio/file/FileSystem;

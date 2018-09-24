@@ -1,0 +1,4 @@
+class org/assertj/core/api/Java6AbstractStandardSoftAssertions
+assertThatCode
+ (Lorg/assertj/core/api/ThrowableAssert$ThrowingCallable;)Lorg/assertj/core/api/AbstractThrowableAssert<*+Ljava/lang/Throwable;>;
+ (Lorg/assertj/core/api/ThrowableAssert$ThrowingCallable;)L1org/assertj/core/api/AbstractThrowableAssert<*+Ljava/lang/Throwable;>;

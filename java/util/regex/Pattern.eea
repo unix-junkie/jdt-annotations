@@ -1,0 +1,4 @@
+class java/util/regex/Pattern
+matcher
+ (Ljava/lang/CharSequence;)Ljava/util/regex/Matcher;
+ (L1java/lang/CharSequence;)Ljava/util/regex/Matcher;

@@ -1,0 +1,4 @@
+class org/apache/log4j/Logger
+getLogger
+ (Ljava/lang/Class;)Lorg/apache/log4j/Logger;
+ (Ljava/lang/Class;)L1org/apache/log4j/Logger;

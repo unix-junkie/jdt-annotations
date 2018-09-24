@@ -1,0 +1,4 @@
+class javax/xml/bind/DatatypeConverter
+printHexBinary
+ ([B)Ljava/lang/String;
+ ([B)L1java/lang/String;

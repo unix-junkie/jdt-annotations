@@ -1,0 +1,4 @@
+class java/lang/System
+arraycopy
+ (Ljava/lang/Object;ILjava/lang/Object;II)V
+ (L1java/lang/Object;IL1java/lang/Object;II)V

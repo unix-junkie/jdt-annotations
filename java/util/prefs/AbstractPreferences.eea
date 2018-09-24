@@ -1,0 +1,25 @@
+class java/util/prefs/AbstractPreferences
+<init>
+ (Ljava/util/prefs/AbstractPreferences;Ljava/lang/String;)V
+ (L0java/util/prefs/AbstractPreferences;L1java/lang/String;)V
+childSpi
+ (Ljava/lang/String;)Ljava/util/prefs/AbstractPreferences;
+ (L1java/lang/String;)Ljava/util/prefs/AbstractPreferences;
+childrenNames
+ ()[Ljava/lang/String;
+ ()[1L1java/lang/String;
+getSpi
+ (Ljava/lang/String;)Ljava/lang/String;
+ (L1java/lang/String;)L0java/lang/String;
+lock
+ Ljava/lang/Object;
+ L1java/lang/Object;
+node
+ (Ljava/lang/String;)Ljava/util/prefs/Preferences;
+ (L1java/lang/String;)L1java/util/prefs/Preferences;
+putSpi
+ (Ljava/lang/String;Ljava/lang/String;)V
+ (L1java/lang/String;L1java/lang/String;)V
+removeSpi
+ (Ljava/lang/String;)V
+ (L1java/lang/String;)V

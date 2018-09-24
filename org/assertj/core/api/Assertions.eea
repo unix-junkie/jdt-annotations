@@ -1,0 +1,7 @@
+class org/assertj/core/api/Assertions
+assertThat
+ (Ljava/lang/String;)Lorg/assertj/core/api/AbstractCharSequenceAssert<*Ljava/lang/String;>;
+ (Ljava/lang/String;)L1org/assertj/core/api/AbstractCharSequenceAssert<*Ljava/lang/String;>;
+assertThat
+ (Ljava/nio/file/Path;)Lorg/assertj/core/api/AbstractPathAssert<*>;
+ (Ljava/nio/file/Path;)L1org/assertj/core/api/AbstractPathAssert<*>;

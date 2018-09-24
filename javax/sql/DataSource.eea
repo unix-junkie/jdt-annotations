@@ -1,0 +1,7 @@
+class javax/sql/DataSource
+getConnection
+ ()Ljava/sql/Connection;
+ ()L1java/sql/Connection;
+getConnection
+ (Ljava/lang/String;Ljava/lang/String;)Ljava/sql/Connection;
+ (Ljava/lang/String;Ljava/lang/String;)L1java/sql/Connection;

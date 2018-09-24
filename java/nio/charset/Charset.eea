@@ -1,0 +1,4 @@
+class java/nio/charset/Charset
+newEncoder
+ ()Ljava/nio/charset/CharsetEncoder;
+ ()L1java/nio/charset/CharsetEncoder;

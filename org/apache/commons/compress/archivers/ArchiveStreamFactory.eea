@@ -1,0 +1,7 @@
+class org/apache/commons/compress/archivers/ArchiveStreamFactory
+createArchiveOutputStream
+ (Ljava/lang/String;Ljava/io/OutputStream;)Lorg/apache/commons/compress/archivers/ArchiveOutputStream;
+ (Ljava/lang/String;Ljava/io/OutputStream;)L1org/apache/commons/compress/archivers/ArchiveOutputStream;
+createArchiveOutputStream
+ (Ljava/lang/String;Ljava/io/OutputStream;Ljava/lang/String;)Lorg/apache/commons/compress/archivers/ArchiveOutputStream;
+ (Ljava/lang/String;Ljava/io/OutputStream;Ljava/lang/String;)L1org/apache/commons/compress/archivers/ArchiveOutputStream;

@@ -1,0 +1,4 @@
+class org/assertj/core/api/AbstractPathAssert
+exists
+ ()TSELF;
+ ()T1SELF;

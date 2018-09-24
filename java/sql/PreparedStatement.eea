@@ -1,0 +1,4 @@
+class java/sql/PreparedStatement
+setRowId
+ (ILjava/sql/RowId;)V
+ (IL1java/sql/RowId;)V

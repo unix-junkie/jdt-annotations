@@ -1,0 +1,7 @@
+class java/sql/DriverManager
+getConnection
+ (Ljava/lang/String;Ljava/util/Properties;)Ljava/sql/Connection;
+ (Ljava/lang/String;Ljava/util/Properties;)L1java/sql/Connection;
+getDriver
+ (Ljava/lang/String;)Ljava/sql/Driver;
+ (Ljava/lang/String;)L1java/sql/Driver;

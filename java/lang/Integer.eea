@@ -1,0 +1,4 @@
+class java/lang/Integer
+compareTo
+ (Ljava/lang/Integer;)I
+ (L1java/lang/Integer;)I

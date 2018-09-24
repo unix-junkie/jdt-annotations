@@ -1,0 +1,4 @@
+class java/sql/ResultSet
+getRowId
+ (I)Ljava/sql/RowId;
+ (I)L0java/sql/RowId;

@@ -1,0 +1,7 @@
+class java/util/regex/Matcher
+<init>
+ (Ljava/util/regex/Pattern;Ljava/lang/CharSequence;)V
+ (Ljava/util/regex/Pattern;L1java/lang/CharSequence;)V
+text
+ Ljava/lang/CharSequence;
+ L1java/lang/CharSequence;

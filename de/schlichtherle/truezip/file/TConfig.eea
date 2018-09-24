@@ -1,0 +1,4 @@
+class de/schlichtherle/truezip/file/TConfig
+push
+ ()Lde/schlichtherle/truezip/file/TConfig;
+ ()L1de/schlichtherle/truezip/file/TConfig;

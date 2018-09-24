@@ -1,0 +1,16 @@
+class java/io/File
+getAbsoluteFile
+ ()Ljava/io/File;
+ ()L1java/io/File;
+getCanonicalFile
+ ()Ljava/io/File;
+ ()L1java/io/File;
+getName
+ ()Ljava/lang/String;
+ ()L1java/lang/String;
+getParentFile
+ ()Ljava/io/File;
+ ()L0java/io/File;
+toPath
+ ()Ljava/nio/file/Path;
+ ()L1java/nio/file/Path;

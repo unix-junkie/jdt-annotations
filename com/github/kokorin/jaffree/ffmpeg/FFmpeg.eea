@@ -1,0 +1,7 @@
+class com/github/kokorin/jaffree/ffmpeg/FFmpeg
+atPath
+ ()Lcom/github/kokorin/jaffree/ffmpeg/FFmpeg;
+ ()L1com/github/kokorin/jaffree/ffmpeg/FFmpeg;
+atPath
+ (Ljava/nio/file/Path;)Lcom/github/kokorin/jaffree/ffmpeg/FFmpeg;
+ (Ljava/nio/file/Path;)L1com/github/kokorin/jaffree/ffmpeg/FFmpeg;
